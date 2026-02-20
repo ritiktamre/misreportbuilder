@@ -1,0 +1,36 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+### Logs ###
+*.log
+logs/
+
+### IDE ###
+.idea/
+*.iws
+*.iml
+*.ipr
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache
+.vscode/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Secrets ###
+application.properties
+application.yml
+.env
+
+### Build ###
+build/
+out/
+
+### Temp ###
+*.swp
+*~
